@@ -2,7 +2,9 @@
 
 A Cherokee language learning game for Android and iOS, written in Flutter and Dart.
 - [Project Website](https://marlon320.github.io/)
-- [documentation and notes](https://drive.google.com/drive/folders/1vGei166hBz10lVUCbz8cceXt667PN6rG?usp=sharing)
+- [Documentation and notes](https://drive.google.com/drive/folders/1vGei166hBz10lVUCbz8cceXt667PN6rG?usp=sharing)
+- [Trailer video](https://youtu.be/ojELdtyaQcM)
+- [Demo video](https://youtu.be/6cHqeLEdr1Q)
 
 ## Getting Started
 
